@@ -9,7 +9,9 @@ The purpose is to play around with and learn some of the different ML Agents fea
 
 ## directory structure
 
-I nested all this stuff under Assets/Demonstrations since it's ignored
-in the ML Agents repo.
+Requires Unity ML Agents.
+
+I nested all this stuff under the Unity ML Agents directory structure
+Assets/Demonstrations since it's ignored in the ML Agents repo.
 This is just to make it easier to upgrade ML Agents,
 so we don't need to worry about merge conflicts or whatnot.
